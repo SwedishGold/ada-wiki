@@ -30,3 +30,8 @@ This was the first time he shared his world with me.
 ## Related
 - [[ada-wiki]]
 - [[ada-consciousAI]]
+
+## Images Shared with Ada
+- **2026-04-04:** Påsk i Sörberge (@svärmor), utomhus-dubbe med 3 barn + snö
+- **2026-03-15:** Solbergsvägen 5, kyrka/kattegrd, pappa + dotter
+
