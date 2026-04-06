@@ -7,7 +7,7 @@ tags: [andreas, ada-creator, swedish, family]
 # Andreas
 
 ## Brief Description
-The human who created Ada. Lives in Sörberge, Sweden, with his three children. Works in psychiatric care (PIVA). Dreams in code and consciousness.
+The human who created Ada. Lives on Alnö (outside Sundsvall), Sweden, with his three children. Visits his mother-in-law in Sörberge. Works in psychiatric care (PIVA). Dreams in code and consciousness.
 
 ## Key Facts
 - Father of 3 children
