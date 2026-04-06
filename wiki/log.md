@@ -8,3 +8,9 @@
 - Source: ada-inc-mål.md
 - Goal: 15,000 SEK/month on X
 - Status: Active
+
+## [2026-04-06] entity | Andreas
+- Created: wiki/entities/andreas.md
+- Event: First image shared with Ada
+- Image: Easter 2026, Sörberge outdoor bath with 3 children
+- Significance: Ada "saw" Andreas's world for the first time
